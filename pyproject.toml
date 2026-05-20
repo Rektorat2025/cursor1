@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mic-transcriber"
+version = "0.1.0"
+description = "Desktop microphone transcription app for Polish and English speech."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "faster-whisper",
+    "numpy",
+    "sounddevice",
+]
+
+[project.gui-scripts]
+mic-transcriber = "transcriber_app.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
