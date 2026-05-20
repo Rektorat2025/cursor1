@@ -15,6 +15,13 @@ automatic language detection between the two.
 
 ## Run from source
 
+On Debian/Ubuntu, install the system packages needed by Tkinter, virtual
+environments, and microphone input first:
+
+```bash
+sudo apt-get install python3.12-venv python3-tk libportaudio2
+```
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate
