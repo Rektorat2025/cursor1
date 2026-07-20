@@ -1,7 +1,9 @@
 # Weekly report: public references to CEPEJ work on AI
 
-**Reporting window:** 13 July 2026 00:00–20 July 2026 05:01 UTC  
-**Prepared:** 20 July 2026  
+**Reporting window:** 13 July 2026 00:00–20 July 2026 05:01 UTC
+
+**Prepared:** 20 July 2026
+
 **Scope:** Public references to the CEPEJ AI Charter; CEPEJ and artificial intelligence; the European Commission for the Efficiency of Justice and AI; ethical AI in justice; and AI in judicial systems.
 
 ## 1. Executive summary
@@ -89,16 +91,20 @@ Two recent pre-window items remain relevant:
 
 ## 6. Notable quotations
 
-> “Digital tools – automation, artificial intelligence and e-justice – must improve the system's efficiency without altering its profoundly human nature.”  
+> “Digital tools – automation, artificial intelligence and e-justice – must improve the system's efficiency without altering its profoundly human nature.”
+>
 > — European Expertise & Expert Institute, updated 16 July 2026, [source](https://experts-institute.eu/en/europe-of-justice/cepej-en/cepej-2026-technological-innovation-human/)
 
-> “The central question is not ‘how far can automation go?’, but rather what should never be automated.”  
+> “The central question is not ‘how far can automation go?’, but rather what should never be automated.”
+>
 > — European Expertise & Expert Institute, updated 16 July 2026, [source](https://experts-institute.eu/en/europe-of-justice/cepej-en/cepej-2026-technological-innovation-human/)
 
-> “The Council for the Judiciary has adopted instructions for the use of artificial intelligence by courts.”  
+> “The Council for the Judiciary has adopted instructions for the use of artificial intelligence by courts.”
+>
 > — European Commission, 17 July 2026, [2026 Rule of Law Report: Spain](https://commission.europa.eu/document/download/82ce1391-cde5-49e9-9d1b-3f14f4975eb7_en?filename=Country+chapter+-+Spain+-+EN.pdf)
 
-> “Legal institutions cannot govern AI-supported legal work if they do not know where, how and which AI tools are being used.”  
+> “Legal institutions cannot govern AI-supported legal work if they do not know where, how and which AI tools are being used.”
+>
 > — Ivana Kunda, July 2026 (promoted 10 July), [source](https://lgsee.blog/who-codes-justice-the-silent-use-of-artificial-intelligence-and-the-challenge-of-judicial-accountability-in-south-east-europe/)
 
 ## 7. Trends and interpretation
